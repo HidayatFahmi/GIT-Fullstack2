@@ -8,3 +8,6 @@ const multiply = (a,b) => {
     return hasil = a*b;
 }
 console.log(multiply(20,10));
+
+const mathSin = number => Math.sin(number);
+console.log(mathSin(90))
